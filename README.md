@@ -32,7 +32,9 @@ Training and testing code for estimating global camera motion from a single spac
 |![alt-text-1]( https://github.com/nimiiit/Motion-Estimation-Codes/blob/master/Input.png "Clean Reference")|  <img src="https://github.com/nimiiit/Motion-Estimation-Codes/blob/master/original.png" alt="GT motion"  width="120" height="120"> | ![alt-text-3](https://github.com/nimiiit/Motion-Estimation-Codes/blob/master/inp4.png "Blurred Image") | <img src="https://github.com/nimiiit/Motion-Estimation-Codes/blob/master/estimated.png" alt="Estimated Motion"  width="120" height="120"> |  ![alt-text-5](https://github.com/nimiiit/Motion-Estimation-Codes/blob/master/deblr4.png "Deblurred Result") | <img src="https://github.com/nimiiit/Motion-Estimation-Codes/blob/master/ordered.png" alt="Ordered Motion"  width="120" height="120"> |
 
 
-
+| Input | PSF from GT Motion | Blurred Image | PSF from Est Motion | Deblurred O/p|
+|-------------------|-------------------------|---------------------|--------------------|------------------|
+|![alt-text-1]( https://github.com/nimiiit/Motion-Estimation-Codes/blob/master/inpclean.png "Clean Reference")| ![alt-text-2]( https://github.com/nimiiit/Motion-Estimation-Codes/blob/master/origdark1.png "PSFs") | ![alt-text-3](https://github.com/nimiiit/Motion-Estimation-Codes/blob/master/inp1.png "Blurred Image") | ![alt-text-4]( https://github.com/nimiiit/Motion-Estimation-Codes/blob/master/estdark1.png "Clean Reference") |  ![alt-text-5](https://github.com/nimiiit/Motion-Estimation-Codes/blob/master/deblr1.png "Deblurred Result") |
 
          
       
